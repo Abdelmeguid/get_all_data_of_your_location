@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/get_all_data_of_your_location/static/css/main.175c6a44.css",
+    "main.js": "/get_all_data_of_your_location/static/js/main.cd591701.js",
+    "index.html": "/get_all_data_of_your_location/index.html",
+    "main.175c6a44.css.map": "/get_all_data_of_your_location/static/css/main.175c6a44.css.map",
+    "main.cd591701.js.map": "/get_all_data_of_your_location/static/js/main.cd591701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.175c6a44.css",
+    "static/js/main.cd591701.js"
+  ]
+}
