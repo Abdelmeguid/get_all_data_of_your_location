@@ -7,6 +7,31 @@
   pointer-events: none;
 }
 
+.yellow {
+  border: 30px solid rgb(255, 255, 0);
+  /* Add any other styling for blinking effect */
+}
+.black {
+  border: 30px solid rgb(180, 113, 131);
+  /* Add any other styling for blinking effect */
+}
+
+.table-bordered td,
+.table-bordered th {
+  border: 20px solid black;
+  text-align: center; /* Center text horizontally */
+  vertical-align: middle; /* Center text vertically */
+ 
+
+}
+.table-bordered th {
+  background-color: #a49db4!important; /* Set background color for header */
+  
+}
+
+
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
