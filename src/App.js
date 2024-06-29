@@ -64,20 +64,21 @@ function App() {
       <tbody>
         <tr>
          
-          <td>Your country</td>
-          <td>{country}</td>
+        <td >Your country</td>
+        
+          <td style={{ color: '#1157e2' }}>{country}</td>
           
         </tr>
         <tr>
        
           <td>Your Ip</td>
-          <td>{ip}</td>
+          <td style={{ color: '#1157e2' }}>{ip}</td>
           
         </tr>
         <tr>
       
           <td>currency</td>
-          <td>{currency}</td>
+          <td style={{ color: '#1157e2' }}>{currency}</td>
           
         </tr>
       </tbody>

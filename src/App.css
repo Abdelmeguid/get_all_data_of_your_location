@@ -21,11 +21,14 @@
   border: 20px solid black;
   text-align: center; /* Center text horizontally */
   vertical-align: middle; /* Center text vertically */
+  font-size:xx-large;
+  font-weight: 600;
  
 
 }
 .table-bordered th {
   background-color: #a49db4!important; /* Set background color for header */
+  
   
 }
 
